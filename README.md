@@ -1,4 +1,7 @@
 # Challenges-OOP
+These challanges contains beginner-level Java programs that demonstrate fundamental programming concepts such as classes, methods, variables, user input, conditional statements, and loops.
+
+
 Greeter.java;
 This class demonstrates a basic Java class and method. It simply prints a greeting message.
 
